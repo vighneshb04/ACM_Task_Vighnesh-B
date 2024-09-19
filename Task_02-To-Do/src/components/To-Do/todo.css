@@ -1,0 +1,55 @@
+.todo {
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+    
+}
+
+.todoRadioChecked, .todoRadioUnchecked {
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background-color: #55cec8;
+    border: 1px solid #dfd7e4;
+    cursor: pointer;
+    margin-right: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(17, 16, 16);
+}
+
+.todoText, .todoTextChecked {
+    color: rgb(72, 72, 72);
+    flex: 1;
+    border-bottom: 1px solid #484040;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.todoDate {
+    font-size: 0.8rem;
+    color: #9e9e9e;
+    margin-top: 0.5rem;
+}
+
+.todoDelete {
+    cursor: pointer;
+    color: #27c6db;
+    padding-left: 4px;
+    padding-right: 40px;
+}
+
+.todoRadioUnchecked {
+    background-color: transparent;
+}
+
+.todoTextChecked {
+    text-decoration: line-through;
+    color: #0f90a1;
+}

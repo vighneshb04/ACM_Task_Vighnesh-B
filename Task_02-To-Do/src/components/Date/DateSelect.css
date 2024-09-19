@@ -1,0 +1,28 @@
+
+.date-select {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0;
+  }
+  
+  .date-input {
+    border: 1px solid #484040;
+    border-radius: 5px;
+    padding: 0.5rem;
+    background-color: #25273c;
+    color: white;
+    margin-right: 1rem;
+    flex: 1;
+  }
+  
+  .dateSelect {
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    border: solid .2px;
+    border-radius: 5px;
+    background-color: #8be8d5;
+    color: rgb(50, 50, 50);
+    font-size: 1rem;
+  }
+  

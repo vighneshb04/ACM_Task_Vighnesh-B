@@ -1,0 +1,13 @@
+.intro {
+    text-align: center;
+    color: rgb(34, 133, 140);
+    margin-bottom: 2rem;
+}
+
+.intro h1 {
+    font-size: 2rem;
+}
+
+.intro p {
+    font-size: 1.2rem;
+}
