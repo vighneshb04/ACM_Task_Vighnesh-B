@@ -115,3 +115,12 @@ This guide provides step-by-step instructions for deploying a simple web applica
 
 ## Conclusion
 You have successfully deployed a web application on AWS using EC2, S3, and Route 53. Follow the security best practices outlined to keep your application safe and secure.
+
+## Deploy a Web Application on AWS
+
+### Objective:
+Deploy a simple web application (e.g., a portfolio site or a blog) on AWS.
+
+### Requirements:
+- Use services like EC2 for the server, S3 for storage, and Route 53 for DNS management.
+- Ensure the application is secure with proper IAM roles and policies.
