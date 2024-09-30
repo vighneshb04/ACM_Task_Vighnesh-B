@@ -1,7 +1,7 @@
 
-# ACM 2nd Year Tasks
+# Vighnesh B ACM 2nd Year Web Tasks
 
-This repository contains all the tasks required for the 2nd year ACM project (AM.SC.U4CSE23269).
+This repository contains all the tasks required for the 2nd year ACM project of Vighnesh B (AM.SC.U4CSE23269).
 
 ## Task Overview
 
@@ -91,4 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any questions or issues, please contact:
 - Name: Vighnesh B
-- Email: your-email@example.com
+- Email: vighnesh.b@hotmail.com
